@@ -1,0 +1,4 @@
+However, this instance would have rebooted because of any application crash or OS crash, 
+As you might already be aware that due to shared responsibility model we do not have visibility on any of our customer OS,
+so we would not be able to determine why the instance was rebooted. In order to determine on why this instance was rebooted,
+I would request you to look into windows event logs.
